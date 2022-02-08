@@ -1,0 +1,22 @@
+Variáveis
+
+nome='Phablo'
+idade='23'
+peso=80.5
+print (nome, idade, peso)
+
+Simbolo de = significa recebe 
+
+Variáveis são espaços na memória onde você pode guardar coisa.
+
+Como perguntar para o usuario essas informações ?
+
+usando a função input 
+
+input significa escreva!
+
+nome=input('Qual é o seu nome?)
+idade=input('Quantos anos você tem?)
+peso=input('Quanto você pesa?)
+print(nome, idade, peso)
+
