@@ -7,3 +7,9 @@
 % = Resto da divisão
 dois simbolos de iguais para igualdade
 
+Ordem de Precedência
+
+1: ()
+2: **
+3: *, /, //, %
+4: +, -
